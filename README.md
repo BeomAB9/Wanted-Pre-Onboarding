@@ -5,5 +5,7 @@
 
 결과적으로 css 코드값이 나와 댕꿀이였다.
 
+반응형 웹 을위해 card container로 나누어  @media를 사용해 작성하자
+
 ![image](https://github.com/BeomAB9/Wanted-Pre-Onboarding/assets/107173113/d0f72960-c824-42a6-bd25-72d199654241)
 
