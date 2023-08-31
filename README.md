@@ -1,3 +1,9 @@
 # Wanted-Pre-Onboarding
-![image](https://github.com/BeomAB9/Wanted-Pre-Onboarding/assets/107173113/24cd3e5b-dbbe-4bf0-bfab-72b9998cca8c)
-수작업으로 css 맞추려했지만 svg 파일인것에 초점을 맞춰 figma로 개발자모드돌리니  css값이 뽑혔다.
+라이브러리 없이 라는 조건이 걸려져있어 막막했으나 파일이 디자인툴로 작성되어있는것에 개발자 모드를 켜보기로했다.
+
+->
+
+결과적으로 css 코드값이 나와 댕꿀이였다.
+
+![image](https://github.com/BeomAB9/Wanted-Pre-Onboarding/assets/107173113/d0f72960-c824-42a6-bd25-72d199654241)
+
